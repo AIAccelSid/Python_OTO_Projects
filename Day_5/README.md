@@ -1,4 +1,4 @@
-## README for Magical Creatures Grade Management System
+## Magical Creatures Grade Management System
 
 ### Introduction
 
@@ -37,18 +37,8 @@ This project is designed to manage grades for students at a school for magical c
 
 Contributions are welcome If you have ideas for enhancements or find bugs, please open an issue or submit a pull request.
 
-### Acknowledgments
-
-Special thanks to all contributors who help improve this project.
 
 ---
-
-**Example Use Case:**
-
-1. Run the script and choose to add a student named "Dragon".
-2. Add a grade for "Dragon".
-3. View "Dragon's" grades.
-4. Calculate "Dragon's" average grade.
 
 ---
 
@@ -58,6 +48,4 @@ This project is licensed under the MIT License. See LICENSE for details.
 
 ---
 
-**Contact:**
-
-For questions or suggestions, please contact [Your Email or GitHub Handle].
+.
